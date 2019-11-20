@@ -1,4 +1,4 @@
-Shinyproxy
+# Shinyproxy
 
 A basic docker image for use in a multicontainer setup when using Shinyproxy with NGINX.
 
